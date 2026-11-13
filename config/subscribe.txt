@@ -2,11 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-https://live.fanmingming.com/tv/m3u/itv.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://live.zhoujie218.top/tv/iptv6.m3u
-https://tv.iill.top/m3u/Gather
+https://iptv-org.github.io/iptv/index.country.m3u
 
 
 
